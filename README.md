@@ -19,7 +19,6 @@ Currently at De Anza College, working toward a future in game development.
 
 - 🎮 Game development & character design
 - 🌐 Frontend — making things look and feel right
-- 🤖 Getting into AI/ML
 - 🎨 Design — UI, game art, anything visual
 
 ---
